@@ -11,7 +11,7 @@ The network is trained to solve the classic **XOR logic problem**, which is impo
 - Backpropagation (calculating derivatives to update weights)
 
 ### AI Tutoring Workflow
-*I used ChatGPT not to write the code for me, but as an **interactive tutor**. I asked it to explain the calculus behind backpropagation and how to translate partial derivatives into NumPy matrix multiplications. This hands-on project helped bridge the gap between my discrete mathematics background from RWTH Aachen and modern machine learning concepts.*
+*I used ChatGPT not to write the code for me, but as an **interactive tutor**. I asked it to explain the calculus behind backpropagation and how to translate partial derivatives into NumPy matrix multiplications. This hands-on project I have done as a hobby project when I was in my university holiday.*
 
 ### How to run
 ```bash
